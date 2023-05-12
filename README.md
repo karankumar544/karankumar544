@@ -13,13 +13,6 @@
   
 
 - <h4>❓ Ask me about anything related to programming and related technologies </h4> 
-  
-
-- ⚡ Fun fact: life has no ctrl + z 
-  
-
-
-
 ### skills
 
 
