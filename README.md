@@ -6,13 +6,13 @@
 ### <div align="center" font-weight: bold>I'm Karan Kumar Baitha, currently pursuing my B Tech degree in Information Technology from [MIT muzaffarpur](https://www.mitmuzaffarpur.org/) . I am a technology enthusiast  who is always ready on project and good ideas</div>  
   
 
-- <h1>🔭 I’m currently working on [collage project](https://github.com/rishavanand/github-profilinator)  </h1>
+- <h3>🔭 I’m currently working on [collage project](https://github.com/rishavanand/github-profilinator)  </h1>
   
 
-- 🌱 I’m currently learning Data sturcture and algorithm  
+- <h3>🌱 I’m currently learning Data sturcture and algorithm</h3>  
   
 
-- ❓ Ask me about anything related to programming and related technologies  
+- <h3>❓ Ask me about anything related to programming and related technologies </h3> 
   
 
 - ⚡ Fun fact: life has no ctrl + z 
