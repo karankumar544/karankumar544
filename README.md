@@ -9,7 +9,7 @@
 - <h4>🔭 I’m currently working on [collage project] </h4>
   
 
-- <h4>🌱 I’m currently learning Data sturcture and algorithm</h4>  
+- <h4>🌱 I’m currently learning Jetpack Compose</h4>  
   
 ### skills
 <table><tr><td valign="top" width="33%">
