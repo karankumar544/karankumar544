@@ -3,9 +3,7 @@
 </div>  
   
 
-### <div align="center" font-weight: bold>
-Hi 👋, I'm Karan, a junior Android developer who helps people build their own end-to-end software using modern technologies. I'm passionate about working with a great team.
-</div>  
+### <div align="center" font-weight: bold>Hi 👋, I'm Karan, a junior Android developer who helps people build their own end-to-end software using modern technologies. I'm passionate about working with a great team.</div>  
   
 
 - <h4>🔭 I’m currently working on [collage project] </h4>
