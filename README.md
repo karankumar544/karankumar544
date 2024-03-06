@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center" font-weight: bold>I'm Karan Kumar Baitha, currently pursuing my B Tech degree in Information Technology from [MIT muzaffarpur](https://www.mitmuzaffarpur.org/) . I am a technology enthusiast  who is always ready on project and good ideas</div>  
+### <div align="center" font-weight: bold>
+Hi 👋, I'm Karan, a junior Android developer who helps people build their own end-to-end software using modern technologies. I'm passionate about working with a great team.
+</div>  
   
 
 - <h4>🔭 I’m currently working on [collage project] </h4>
@@ -25,7 +27,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-</td><td valign="left" width="33%">
 
 
 ### Android Development  
