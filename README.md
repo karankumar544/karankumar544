@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif](https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif)" align="center" style="width: 100%" />
+<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif" align="center" style="width: 100%" />
 </div>  
   
 
